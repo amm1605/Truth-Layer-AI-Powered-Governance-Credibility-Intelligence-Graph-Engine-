@@ -1,0 +1,2 @@
+# Truth-Layer---AI-Powered-Governance-Credibility-Intelligence-Graph-Engine-
+TRUTH-LAYER is an AI-powered intelligence platform that integrates data from governance, economics, defense, technology, climate, and society into a unified knowledge graph. It analyzes policy statements, verifies government promises with real-world data, and generates credibility insights for transparent decision-making.
